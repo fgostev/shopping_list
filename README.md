@@ -1,0 +1,1 @@
+exercise on creating a shopping list from Zero To Mastery course. No styles added, only JavaScript
